@@ -1,10 +1,23 @@
-let nm = 5;
+let num = 5;
+num += 3;
+num -=2;
+num *=6;
+console.log(num);
+let string = '5';
 
-console.log(2 + 3);
-console.log(5 - 2);
-console.log(9 * 9);
-console.log(10 / 5);
-console.log(10 % 2);
-console.log(10 % 3);
+let bool = true;
+let lie = false;
 
-let string = 'Hello world';
+
+
+
+
+
+
+
+
+
+
+
+
+
